@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: aliceblue;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.tituloLog {
+  display: flex;
+  justify-content: center;
+}
